@@ -4,9 +4,9 @@
 This repository contains essential resources for data science learning, including PreSkillet videos, CISCO certifications, and EDS Laboratory assignments.
 
 ## 📑 Table of Contents
-- [PreSkillet Videos](#preskillet-videos)
-- [CISCO Certifications](#cisco-certifications)
-- [EDS Laboratory Assignments](#eds-laboratory-assignments)
+- PreSkillet Videos
+- CISCO Certifications
+- EDS Laboratory Assignments
 
 ## 🎬 PreSkillet Videos
 Access instructional video on Python programming concepts:
@@ -15,8 +15,8 @@ Access instructional video on Python programming concepts:
 
 ## 🏆 CISCO Certifications
 ### 🐍 Essential of Data Science (EDS) for Python
-- [EDS Python - Part 1](#)
-- [EDS Python - Part 2](#)
+- [EDS Python - Part 1](assets/certificates/EDS_Certificate_1.pdf)
+- [EDS Python - Part 2](assets/certificates/EDS_Certificate_2.pdf)
 
 ## 🧪 EDS Laboratory Assignments
 ### 📊 Analysis Project
